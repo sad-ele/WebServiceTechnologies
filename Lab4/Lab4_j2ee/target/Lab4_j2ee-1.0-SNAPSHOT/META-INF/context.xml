@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context>
+    <Resource name="jdbc/postgresbd" auth="Container"
+              type="javax.sql.DataSource"
+              username="user" password="12345678"
+              driverClassName="org.postgresql.Driver"
+              url="jdbc:postgresql://localhost:5435/postgresbd"
+    />
+</Context>
